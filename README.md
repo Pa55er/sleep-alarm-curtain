@@ -9,5 +9,5 @@
 <h3>사용된 아두이노 제품 : </h3>아두이노 uno, lcd, ir센서, 초음파 센서, DS1302 RTC 모듈, 피에조 버저, LED, 리모컨<p>
 
 <h3>아두이노 설계도 : </h3>
-![아두이노프로젝트설계도(최종)](https://github.com/programmerJuni/sleep-alarm-curtain/assets/57414420/575400a2-369b-476b-b41c-0245069bb4a5)<p>
+https://github.com/programmerJuni/sleep-alarm-curtain/assets/57414420/575400a2-369b-476b-b41c-0245069bb4a5<p>
 
