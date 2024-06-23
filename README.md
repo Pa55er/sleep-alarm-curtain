@@ -12,3 +12,4 @@
 https://github.com/programmerJuni/sleep-alarm-curtain/assets/57414420/575400a2-369b-476b-b41c-0245069bb4a5<p>
 
 <h3>시연 영상 : </h3>
+https://github.com/programmerJuni/sleep-alarm-curtain/assets/57414420/ce658572-4613-4b4f-8b72-0e0140fd5677
